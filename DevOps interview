@@ -1,0 +1,62 @@
+About me for Devops & Cloud. 
+I am currently working as a Devops Engineer & Automation Consultant 
+I am responsible for Cloud Implementations, Cloud Migrations and Cloud Support & Security. I have hands on AWS & Azure.  
+I am from Cloud Engineering & Automation team. My team is Responsible for end to end Automation and cloud support.   
+We have our Cloud Footprint on both AWS & Azure. I am responsible 
+        a. for writing Complete Infrastructure as a code using Terraform
+        b. Configuring Cloud Networks and connecting with On-Prem. 
+        c. Responsible for Cloud Migrations, CLoud Operations and CLoud Security and governance of Platform on CLoud.
+        d. Responsible for Complete CI/CD , Creating Pipeline as a Code and automating stuff  and integrating tools like  Maven for Java , MS Build for .net and npm for Angular projects, pip for python.
+       e.  Also Responsible for Testing Code Quality using Sonar Qube and Fortify.  
+       f. Responsible for Writing Ansible Playbooks and Ansible roles for doing configuration Management. 
+       g.  Responsible for writing scripts for day to day automation and support development teams.
+       h. Responsible for writing Docker files starting from scratch for the Application which needs migration to Kubernetes.  
+At this Point in our Organization, we are doing a Huge Migration of our Datacenters to Cloud. In this Process we are doing Lift & Shift Migrations and some of the things we are refactoring and redesigining some of the Applications in Cloud using the Cloud Native and latest features. I am Responsible for Creating Several Automations and support in Migration of Various Applications on the AWS & Azure. 
+I have hands on writing Docker files starting from scratch and archestrate Docker files on kubernetes Platforms like AKS, EKS. 
+I work very closely with Development teams and involve and help in all phases of SDLC Process, I involve from Design Phase to the Post Implementation, Automation & Support Phases as well. 
+In Scripting, I have hands on Shell Scripting/Powershell, Python Data Structures. 
+On the Monitoring side, i have experience working with Nagios, Splunk, ELK, Prometheus , Grafana, New Relic. 
+Overall this is about me at a High level, I will be open for any questions. 
+----------------------
+About me for SRE
+I am currently working as a SRE & Cloud Architect 
+I am responsible for Governing the entire CLoud Infrastructure and Accounts , Help teams in Doing Cost Management on CLoud. 
+I help our Enterprise IT teams in implementing new solutions on the Cloud and responsible for defining and desining a Migration Path from Onprem to Cloud. 
+We have our Cloud Footprint on both AWS & Azure. I am responsible for End to End Automation on Cloud with respect to build and release, cloud infrastructure provisioning using terraform.   
+I have hands on infrastructure as a code using terraform, Cloud formation & Azure ARM templates. 
+I am responsible for Cloud Automation , Cloud Security, Cost Management and Cloud Integrations with internal and external Tools. 
+At this Point in our Organization, we are doing a Huge Migration of our Datacenters to Cloud. In this Process we are doing Lift & Shift Migrations and refactoring and redesigining some of the Applications in CLoud using the CLoud Native and latest features. 
+I am Responsible for Creating Several Automations and support in Migration of Various Applications on the AWS & Azure. 
+I have complete hands on CI/CD Projects, Build and Release Automation, Unit testing, Security testing, Deployments and i have hands on tools like Jenkins/Azure Devops/Gitlabs/Code Pipeline etc.
+One of my key role is to understand the Applications and help Converting Monolithic Applications to Microservices using Docker and help running the containers on Kubernetes. 
+I have experience working with On-Prem Kubernetes, Managed Services like AKS & ACR in Azure, EKS & ECR in AWS. I have experience writing Docker files, Creating Pods, Deployments, Replicas etc etc. 
+I work very closely with Development teams and involve and help in all phases of SDLC Process, I involve from Design Phase to the Post Implementation, Automation & Support Phases as well. 
+In Scripting, I have hands on Shell Scripting/Powershell, Python Data Structures & Python Flask.
+On the Monitoring side, i have experience working with Nagios, Splunk, ELK, Prometheus , Grafana, New Relic. 
+
+Day to Day Activities 
+I am Developer Administrator , 70% of doing Developments on Devops Projects, Doing Research and responsible for Cloud Migrations & Planning & 30-40% is Gatekeeping the Production Support. 
+In Devops Work, i work on Several User stories, Several tasks,  on New AUtomations, CHanges to Pipelines, Executing & MOnitoring Monthly/Weekly/Daily Builds. 
+I do the Release Management work using Jenkins. 
+I am responsible for Ensuring that Monitoring is Done on Each Asset and Ensure we are getting the logs. 
+25% of my work is on exploring new Technologies and doing POC on new tickets and Provide the Feedback and Make Production Ready APplications. 
+Day starts with Checking the tickets, Responding to them and Gatekeeping Production Environment. 
+General
+Tell me about a time where your Opinion is discarded by everyone and how did you handle it. 
+Answer:- Cant able to recollect a time, but this happens most of the times where several good opnions get discarded during the work time because of various reasons, rather than taking the situation Neghatively , Its important that we stay positive and understand the situation and listen to the other person opinion if its right and be patient and when time comes, we have a chance to tell our view point with strong justification and reasoning. 
+Tell me about a time you had disagreement with an employee and how did you resolve it.  
+        Answer:-  This happens almost every day as every has thier own opinion of solving problems. Talking about an example is that i had a disagreement about the Implementation of our Core Automation Workflow using the CI/CD Tools. I had 2-3 ways in my mind and my manager had a different opinion in mind. We want to solve the Problem with Security as there were too many security incidents in our Cloud Eco-system. 
+        I had come up with the idea of build a Proactive System to do a continous Posture assessment on Cloud and the automation ensure thats the resources are provisioned ensuring that if anyone is voilating the Security Regulations , I have done the Proof of concept and shown this to my Leader. 
+However My peer also had a approach to present a reactive way to solve the problem that will identify any misconfiguration and autofix. 
+In Reality both solutions are correct , However there was a disagreement of one is better over other.  The Problem solved using my method as my Managment is convinced to have a Proactive Approach. 
+About my Current Projects
+i work for Projects relating to Enterprise IT , Most of the Projects are either ETL, Data Lake etc. 
+Project 1 --> ETL Solution 
+I worked for the ETL Applicatoin (Extract , Transform, Load )
+Here we get the files from the S3 Bucket as an INput , the Application does the transforamtion using java and python machine learning and does the dataload in the Aurora Database. 
+THis Application is deployed in AWS, has a Python as business logic and database oracle rds as a backend. THe Application is using containerization and deployed on the AWS EKS platform. 
+We Do the Extraction from the data kept in sftp/s3 bucket, this data is unstructured data. 
+the Applicaation reads the data in s3 bucket, applies some machine level algorithms and do the Data prediction. 
+Here we use Project Anaconda/Jupyter/Hadoop cluster and the Data is read from the bucket is converted to structurd format 
+the Structured data is sent back to RDS and the Frontend ui will do the ANlaytics and ML Capabilities and show the data. 
+My Responsibility is manage the AWS infrastrucutre/Monitor the Resources/ Provide Production Support.  
